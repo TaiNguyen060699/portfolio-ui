@@ -45,7 +45,6 @@ const Project = () => {
           <p className="text-base font-normal max-w-xl">Philippine Airlines, known as Philippine Air Lines from 1941 until 1970, is the flag carrier of the Philippines. Headquartered at the PNB Financial Center in Pasay, the airline was founded in 1941 and is the first and oldest commercial airline in Asia.</p>
         </div>
       </div>
-      
       <div className="mt-8 border-b-2"></div>
     </div>
   )
