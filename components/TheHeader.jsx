@@ -1,5 +1,6 @@
 import React from 'react'
 import Image from 'next/image'
+
 const Header = () => {
   return (
     <div className="p-6 md:py-4 md:px-[147px] overflow-hidden      ">
