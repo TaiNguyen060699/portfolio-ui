@@ -5,7 +5,7 @@ import Image from 'next/image';
 const Project = () => {
   return (
     <div className="p-6 md:py-4 md:px-[147px]">
-      <h3 className="text-black text-[22px] font-normal leading-[60px] text-center md:text-left">Feature works</h3>
+      <h3 className="text-[22px] font-normal leading-[60px] text-center md:text-left">Feature works</h3>
       <div className="flex items-start flex-col md:flex-row md:items-center">
         <a tag="div" target="_blank" href="https://www.okxe.vn/">
           <img

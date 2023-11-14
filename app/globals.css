@@ -7,3 +7,17 @@
   --background-start-rgb: 214, 219, 220;
   --background-end-rgb: 255, 255, 255;
 }
+
+body {
+  color: black;
+  background-color: #fff;
+}
+
+[data-theme="dark"] body {
+  background-color: #000;
+  color: white;
+}
+
+[data-theme="dark"] body .bg-blue, [data-theme="dark"] body .bg-white {
+  background-color: #000;
+}

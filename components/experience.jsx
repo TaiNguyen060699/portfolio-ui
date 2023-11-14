@@ -3,7 +3,7 @@ import React from 'react'
 const Experience = () => {
   return (
     <div className="p-6 md:py-4 md:px-[147px] pb-[32px] pt-4 bg-blue">
-      <h3 className="text-black text-[22px] font-normal leading-[60px] text-center md:text-left">Work Experience</h3>
+      <h3 className="text-[22px] font-normal leading-[60px] text-center md:text-left">Work Experience</h3>
       <div className="block md:flex justify-between">
         <div className="bg-white p-3 md:p-7 w-fill md:w-[49%] mb-3 md:mb-0">
           <div className="text-[26px] font-bold">Sutrix Solutions</div>

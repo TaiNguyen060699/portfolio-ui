@@ -3,11 +3,11 @@ import Image from 'next/image';
 const Footer = () => {
   const socials = [
     {
-      icon: "./fb.png",
+      icon: "./Facebook.png",
       url: "https://www.facebook.com/tai.ns99"
     },
     {
-      icon: "./insta.png",
+      icon: "./Instagram.png",
       url: "https://www.instagram.com/nguyentai_99/"
     },
     {
@@ -29,7 +29,7 @@ const Footer = () => {
           </a>
         ))}
       </div>
-      <div className="text-sm text-center mt-7">Copyright ©2020 All rights reserved</div>
+      <div className="text-sm text-center mt-7">Copyright ©2023 All rights reserved</div>
     </div>
   )
 }
