@@ -15,7 +15,7 @@ const Project = () => {
           />
         </a>
         <div className="ml-0 mt-4 md:mt-0 md:ml-4">
-          <div class="text-2xl md:text-[30px] font-bold">OKXE Application</div>
+          <div className="text-2xl md:text-[30px] font-bold">OKXE Application</div>
           <p className="text-base font-normal max-w-xl">The OKXE Application is an e-commerce platform specializing in motorcycle transactions. It efficiently supports various motorcycle-related needs, hosting over 2 million products and serving more than 1.5 million users.</p>
         </div>
       </div>
@@ -28,7 +28,7 @@ const Project = () => {
           />
         </a>
         <div className="ml-0 mt-4 md:mt-0 md:ml-4">
-          <div class="text-2xl md:text-[30px] font-bold">OKXE Blog</div>
+          <div className="text-2xl md:text-[30px] font-bold">OKXE Blog</div>
           <p className="text-base font-normal max-w-xl">A blog website provides diverse content including personal experiences, societal discussions, skill tutorials, product reviews, arts and culture, science and technology.</p>
         </div>
       </div>
@@ -41,7 +41,7 @@ const Project = () => {
           />
         </a>
         <div className="ml-0 mt-4 md:mt-0 md:ml-4">
-          <div class="text-[30px] font-bold">Philippine Airlines</div>
+          <div className="text-[30px] font-bold">Philippine Airlines</div>
           <p className="text-base font-normal max-w-xl">Philippine Airlines, known as Philippine Air Lines from 1941 until 1970, is the flag carrier of the Philippines. Headquartered at the PNB Financial Center in Pasay, the airline was founded in 1941 and is the first and oldest commercial airline in Asia.</p>
         </div>
       </div>
