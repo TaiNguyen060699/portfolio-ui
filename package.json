@@ -11,6 +11,7 @@
     "test:ci": "jest --ci"
   },
   "dependencies": {
+    "@nextui-org/react": "^2.2.9",
     "next": "14.0.1",
     "next-themes": "^0.2.1",
     "react": "^18",
