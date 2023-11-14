@@ -20,7 +20,7 @@ const ThemeSwitcher = () => {
   }
 
   return (
-    <div class="flex items-center">
+    <div className="flex items-center">
       <button onClick={toggleTheme}>
         {theme === "dark" && (
           <svg
