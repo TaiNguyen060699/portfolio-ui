@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-img-element */
 "use client";
 
 import { useState, useEffect } from "react";
@@ -9,6 +10,7 @@ const ThemeSwitcher = () => {
 
   useEffect(() => {
     setMounted(true);
+    localStorage.setItem('theme', 'light')
   }, []);
 
   const toggleTheme = () => {
